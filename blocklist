@@ -116,3 +116,7 @@
 *.xboxstats.com
 # =================================
 *.metrics-proxy-use1.na1.sentinelone.net
+*.cookiebot.com
+*.time.google.com
+*.adjust.io
+*.disqus.com
