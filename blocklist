@@ -114,3 +114,5 @@
 *.xboxlive.com
 *.xboxservices.com
 *.xboxstats.com
+# =================================
+*.metrics-proxy-use1.na1.sentinelone.net
