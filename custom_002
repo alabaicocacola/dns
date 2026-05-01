@@ -143,3 +143,13 @@
 ||linkedin.com^$important
 ||tiktok.com^$important
 ||twitter.com^$important
+||assets.adobedtm.com^$important
+||beacons.gcp.gvt2.com^$important
+||beacons.gvt2.com^$important
+||beacons2.gvt2.com^$important
+||beacons3.gvt2.com^$important
+||beacons4.gvt2.com^$important
+||beacons5.gvt2.com^$important
+||beacons5.gvt3.com^$important
+||secure.gravatar.com^$important
+||uhf.microsoft.com^$important
